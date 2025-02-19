@@ -47,6 +47,16 @@ This project demonstrates the functional verification of a FIFO (First-In, First
 - Used scoreboarding to compare expected and actual outputs.
 - Identified potential corner cases for further testing.
 
+### **TCL console**
+
+![App Screenshot](https://github.com/itsharshschoice/Functional-Verification-of-FIFO-Using-SystemVerilog/blob/main/Screenshots/TCL_Console_1.png?raw=true)
+
+![App Screenshot](https://github.com/itsharshschoice/Functional-Verification-of-FIFO-Using-SystemVerilog/blob/main/Screenshots/TCL_Console_2.png?raw=true)
+
+![App Screenshot](https://github.com/itsharshschoice/Functional-Verification-of-FIFO-Using-SystemVerilog/blob/main/Screenshots/TCL_Console_3.png?raw=true)
+
+
+
 ## **Conclusion**
 
 This project verifies the functionality of a FIFO buffer using SystemVerilog, employing mailbox communication and scoreboarding for robust validation. The testbench automates result checking, ensuring correctness in write, read, and reset operations. Constrained-random stimulus and transaction-based modeling enhance test coverage, while the scoreboard ensures accurate output comparison. This project demonstrates industry-standard verification techniques and can be extended with assertions, functional coverage, and corner-case testing for improved reliability.
